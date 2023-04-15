@@ -27,5 +27,5 @@ public class T2_googles_logger_multipleTesting extends ReuseableAnnotations {
         System.out.println("Search number for cricket: " + arrayResult[1]);
         logger.log(LogStatus.INFO,"Search number for cricket: " + arrayResult[1]);
     }//end of test 2
-
+//commit and push
 }//end of class
